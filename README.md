@@ -1,9 +1,18 @@
-# iw-gamejam2021
+# Office Escape Game
 
-Office Escape Game
+# Viewing the source game file
+The Game was written using the Click Team Fusion software, as such the Click Team Fusion software is required to be able to run the game. Click Team Free will allow limited access to the game file (as the game was produced with the full license software and exceeds the limits of the free version). Click Team Fusion Free can be downloaded at the following: https://www.clickteam.com/clickteam-fusion-2-5-free-edition
+Once the Click Team fusion software is installed, the iw-gamejam2021.mfa file can be opened with the Click Team Fusion Software
 
+# How to Run
+Currently the only way to run is on a Windows PC, download and run office-escape.exe
 
-Credits
+# Further info
+The other sound and art files are included in this repo for reference, however they are included in the iw-gamejam2021.mfa file and also the compiled office-escape.exe file
+
+There is also an HTML5 compiled version of the game, however in it's current state this has generated a bug with the sound and also some gameplay issues, so is not currently released
+
+# Credits
 
 Music (not edited) intro to the video - Metal Intro by Leonard.B.Blaesing - https://freesound.org/people/Leonard.B.Blaesing/sounds/513601/ - license - https://creativecommons.org/licenses/by/3.0/legalcode
 
