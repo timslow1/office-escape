@@ -5,7 +5,9 @@ The Game was written using the Click Team Fusion software, as such the Click Tea
 Once the Click Team fusion software is installed, the iw-gamejam2021.mfa file can be opened with the Click Team Fusion Software
 
 # How to Run
-Currently the only way to run is on a Windows PC, download and run office-escape.exe. Also low volume edition with same game and volume set to level 1 - office-escape-low-volume.exe
+Currently the only way to run is on a Windows PC, download and run office-escape.exe.
+
+Also low volume edition with same game and volume set to level 1 - office-escape-low-volume.exe
 
 # Further info
 The other sound and art files are included in this repo for reference, however they are included in the iw-gamejam2021.mfa file and also the compiled office-escape.exe file
